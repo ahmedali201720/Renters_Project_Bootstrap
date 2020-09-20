@@ -59,7 +59,7 @@ body {
   border-radius: 50%;
 }
 /* end of navbar */
-/* banner */
+/* styling banners */
 .banner-info {
   min-height: calc(100vh - 101px);
   background: var(--mainGrey);
