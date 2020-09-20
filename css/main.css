@@ -11,7 +11,7 @@ body {
   background: var(--mainWhite);
   color: var(--mainDark);
 }
-/* global */
+/* global style for texts color*/
 .text-green {
   color: var(--mainGreen);
 }
